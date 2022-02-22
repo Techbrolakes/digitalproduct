@@ -50,7 +50,7 @@ function Process() {
         icon="/scope.svg"
         image="/GP1.png"
         heading="Business Audit"
-        text="An audit examines your business's financial records to verify they
+        text="An audit examines your business&rsquo;s financial records to verify they
             are accurate. This is done through a systematic review of your
             transactions."
       />
@@ -64,7 +64,7 @@ function Process() {
         icon="/icon3.png"
         image="/GP2.png"
         heading="Results"
-        text="An audit examines your business's financial records to verify they are accurate. This is done through a systematic review of your transactions."
+        text="An audit examines your business&rsquo;s financial records to verify they are accurate. This is done through a systematic review of your transactions."
       />
     </Box>
   );

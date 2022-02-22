@@ -26,7 +26,7 @@ function Brands() {
           fontWeight={"500"}
           width={"897px"}
         >
-          We work with thousands of the world’s leading brands
+          We work with thousands of the world&rsquo;s leading brands
         </Heading>
       </Flex>
       <Flex align={"center"} justify={"center"} gap={"40px"}>
@@ -51,7 +51,8 @@ function Brands() {
         fontSize={"16px"}
         color={"#424A4D"}
       >
-        You're going to be in good company. We work with world's leading brands.
+        You're going to be in good company. We work with world&rsquo;s leading
+        brands.
       </Text>
     </Box>
   );
