@@ -51,8 +51,8 @@ function Brands() {
         fontSize={"16px"}
         color={"#424A4D"}
       >
-        You're going to be in good company. We work with world&rsquo;s leading
-        brands.
+        You&rsquo;re going to be in good company. We work with world&rsquo;s
+        leading brands.
       </Text>
     </Box>
   );
