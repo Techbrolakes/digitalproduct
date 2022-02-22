@@ -47,7 +47,12 @@ function Working() {
           </Button>
         </Box>
         <Box>
-          <Image src="/working.png" height={"523px"} width={"624px"} />
+          <Image
+            src="/working.png"
+            alt="divider"
+            height={"523px"}
+            width={"624px"}
+          />
         </Box>
       </Flex>
     </Box>

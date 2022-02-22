@@ -1,4 +1,4 @@
-import { Box, Flex, Heading, Text } from "@chakra-ui/react";
+import { Box, Flex, Heading, Text, Image } from "@chakra-ui/react";
 import React from "react";
 
 function ProcessCard({ heading, text, image, icon }) {
@@ -13,9 +13,9 @@ function ProcessCard({ heading, text, image, icon }) {
         align={"center"}
         shadow={"md"}
       >
-        <img src={image} alt="" />
+        <Image src={image} alt="divider" />
         <Box width={"530px"}>
-          <img src={icon} alt="" />
+          <Image src={icon} alt="divider" />
           <Heading
             fontSize={"22px"}
             lineHeight={"30px"}

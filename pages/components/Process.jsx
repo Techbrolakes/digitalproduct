@@ -65,6 +65,7 @@ function Process() {
       <ProcessCard
         icon="/icon3.png"
         image="/GP2.png"
+        alt="divider"
         heading="Results"
         text="An audit examines your business&rsquo;s financial records to verify they are accurate. This is done through a systematic review of your transactions."
       />
