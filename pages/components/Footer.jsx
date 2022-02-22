@@ -20,8 +20,8 @@ function Footer() {
         width={"1070px"}
       >
         <Box display={"flex"} alignItems={"center"}>
-          <Image src="/Cf.svg" alt="" width={"71px"} />
-          <Image src="/Group.svg" alt="" />
+          <Image src="/Cf.svg" alt="group" width={"71px"} />
+          <Image src="/Group.svg" alt="group" />
         </Box>
         <UnorderedList
           color={"#cfcfcf"}
@@ -40,13 +40,13 @@ function Footer() {
           <ListItem>Start a project</ListItem>
         </UnorderedList>
         <Flex gap={"20px"} mx={"10px"}>
-          <Image src="/facebook.svg" />
-          <Image src="/Instagram.svg" />
-          <Image src="/Twitter.svg" />
+          <Image src="/facebook.svg" alt="facebook" />
+          <Image src="/Instagram.svg" alt="Instagram" />
+          <Image src="/Twitter.svg" alt="Twitter" />
         </Flex>
       </Flex>
       <Box width={"1070px"} mx={"auto"} my={"25px"}>
-        <Image src="/Divider.svg" />
+        <Image src="/Divider.svg" alt="divider" />
       </Box>
       <Box
         width={"1070px"}

@@ -52,7 +52,7 @@ function Navbar() {
           backgroundColor={"#719BFE"}
         >
           <Box display={"flex"} alignItems={"center"}>
-            <Image src="/frame.svg" />
+            <Image src="/frame.svg" alt="frame" />
           </Box>
           {/* 2ND COLUMN CONTAINING THE LINKS */}
           <Box display={["none", "none", "block", "block"]}>
@@ -121,7 +121,7 @@ function Navbar() {
           alignItems={"center"}
         >
           <Box display={"flex"} alignItems={"center"}>
-            <Image src="/frame.svg" />
+            <Image src="/frame.svg" alt="divider" />
           </Box>
           {/* 2ND COLUMN CONTAINING THE LINKS */}
           <Box display={["none", "none", "block", "block"]}>

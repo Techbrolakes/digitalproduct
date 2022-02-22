@@ -49,6 +49,7 @@ function Process() {
       <ProcessCard
         icon="/scope.svg"
         image="/GP1.png"
+        alt="GP1"
         heading="Business Audit"
         text="An audit examines your business&rsquo;s financial records to verify they
             are accurate. This is done through a systematic review of your
@@ -57,6 +58,7 @@ function Process() {
       <ProcessCard
         icon="/icon2.png"
         image="/GP2.png"
+        alt="gp2"
         heading="Data tracking"
         text="The hardware and software, which when used together allows you to know where something is at any point in time"
       />
